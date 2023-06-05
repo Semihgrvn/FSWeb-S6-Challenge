@@ -1,8 +1,20 @@
 .App {
   text-align: center;
 }
+
 .Header {
   color: #443e3e;
   text-shadow: 1px 1px 5px #fff;
 }
+
+.item {
+  width: 40%;
+  margin: auto;
+}
+
+.page {
+  width: 17.5%;
+  margin: auto;
+}
+
 /* write your parent styles in here for your App.js */
